@@ -2,7 +2,7 @@
 
 ## Downloading the audiosets from Google AudioSet
 
-The code for accessing the audiosets from the Google AudioSet can be found in the audioset-preprocessing. It has a separate README file with detailed instructions to do so.
+The code for accessing the audiosets from the Google AudioSet can be found in the audioset-preprocessing, adapted from https://github.com/aoifemcdonagh/audioset-processing. It has a separate README file with detailed instructions to do so.
 
 ## Classification of Child And Adult Voice
 
